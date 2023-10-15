@@ -2,7 +2,7 @@
 - Jack of all Trades
 - PYTHON
 - GENESIS
-- Jacob T Dean
+- JacobSheraz
 
 <!---
 salsheraz/salsheraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
